@@ -1,20 +1,18 @@
-<<<<<<< HEAD
-# clothes_app
+# BLACK&WHITE
 
-A new Flutter project.
+## Description
+BLACK&WHITE est une application fonctionnelle qui permet de gérer des articles de mode. 
+L'application propose une interface simple et intuitive pour naviguer à travers différents articles et les ajouter à un panier d'achat
 
-## Getting Started
+## Statut du projet
+Le projet est **fonctionnel** et opérationnel.
 
-This project is a starting point for a Flutter application.
+## Utilisateurs de test
+Voici les identifiants de connexion pour tester l'application :
+- **Utilisateur 1**:
+  - **Email**: ayman@gmail.com
+  - **Mot de passe**: 123456
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# clothesapp
->>>>>>> 203e99bdfc8a028a3dbc2b361b154f520f7c004d
+- **Utilisateur 2**:
+  - **Email**: mathieu@gmail.com
+  - **Mot de passe**: 123456
