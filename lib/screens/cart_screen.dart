@@ -1,6 +1,6 @@
 import 'package:clothes_app/services/cart_service.dart';
 import 'package:flutter/material.dart';
-// import 'package:syna_app/services/cart_service.dart';
+
 
 class CartScreen extends StatefulWidget {
   const CartScreen({super.key});

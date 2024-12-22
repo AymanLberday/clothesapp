@@ -1,23 +1,11 @@
 import 'package:clothes_app/screens/login_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-// import 'package:syna_app/screens/login_page.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  // await Firebase.initializeApp(
-  //   options: const FirebaseOptions(
-  //     apiKey: "AIzaSyAZmvSPdOXPt9NRvlTLvpgNm6TlkQA1jHY",
-  //     authDomain: "clothing-a.firebaseapp.com",
-  //     databaseURL: "https://clothing-a-default-rtdb.firebaseio.com",
-  //     projectId: "clothing-a",
-  //     storageBucket: "clothing-a.appspot.com",
-  //     messagingSenderId: "YOUR_SENDER_ID",
-  //     appId: "1:1040789890035:web:f8c5c1c3c9c1c1c3c9c1c1"
-  //   ),
-  // );
     await Firebase.initializeApp(
       options: const FirebaseOptions(
         apiKey: "AIzaSyAI3vLnJLnZNxr4EVLWtkp4PdRD6cdjf3M",

@@ -1,7 +1,6 @@
 import 'package:clothes_app/screens/ItemDetail.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_database/firebase_database.dart';
-// import 'package:syna_app/screens/itemdetail.dart';
 import 'bar.dart';  // Importer le widget Bar
 
 
@@ -23,7 +22,6 @@ class _HomePageState extends State<HomePage> {
     _fetchClothingItems();
   }
   void _fetchClothingItems() async {
-    //final snapshot = await _database.child('clothingItems').get();
     final snapshot = await _database.child('clothes').get();
     if (snapshot.exists) {
       final items = Map<String, dynamic>.from(snapshot.value as Map);

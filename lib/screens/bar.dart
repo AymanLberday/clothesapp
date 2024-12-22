@@ -1,8 +1,6 @@
 import 'package:clothes_app/screens/cart_screen.dart';
 import 'package:clothes_app/screens/profile.dart';
 import 'package:flutter/material.dart';
-// import 'package:syna_app/screens/profile.dart';
-// import 'package:syna_app/screens/cart_screen.dart';  // Add this import
 
 class Bar extends StatelessWidget {
   final int currentIndex;
